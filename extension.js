@@ -56,7 +56,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "basicBot",
         language: "english",
-        chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
+        chatLink: "http://rawgit.com/pedrinholuizf/basicBot-customization/master/pt.json",
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 60,
